@@ -1,4 +1,4 @@
-package Apliccation;
+package application;
 
 import chess.ChessMatch;
 
